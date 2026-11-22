@@ -1,5 +1,5 @@
 # TheDuskbloods
-The Duskbloods setup Guide
+The Duskbloods setup guide
 
 Download the latest playDB-CNT launcher
 
